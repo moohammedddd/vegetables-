@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b4a74cb.css",
+    "main.js": "/static/js/main.210022cb.js",
+    "static/js/453.71cd4d42.chunk.js": "/static/js/453.71cd4d42.chunk.js",
+    "static/media/—Pngtree—a shopping cart with some_16159216.png": "/static/media/—Pngtree—a shopping cart with some_16159216.64e3b04c57e3a6024df6.png",
+    "static/media/AdobeStock_122608269_Preview.jpeg": "/static/media/AdobeStock_122608269_Preview.5046e7f4506522d491ad.jpeg",
+    "static/media/AdobeStock_205565499_Preview.jpeg": "/static/media/AdobeStock_205565499_Preview.267ba01ace2f189937f9.jpeg",
+    "static/media/AdobeStock_94942444_Preview.jpeg": "/static/media/AdobeStock_94942444_Preview.535a0874f0275709cb82.jpeg",
+    "static/media/manga.jpg": "/static/media/manga.068ec99f568969f870f0.jpg",
+    "static/media/240_F_272023262_cRXnbWsakUsNhhTxXOZZPHNaMqPqmz6F.jpg": "/static/media/240_F_272023262_cRXnbWsakUsNhhTxXOZZPHNaMqPqmz6F.596596e275ae42329934.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.6b4a74cb.css.map": "/static/css/main.6b4a74cb.css.map",
+    "main.210022cb.js.map": "/static/js/main.210022cb.js.map",
+    "453.71cd4d42.chunk.js.map": "/static/js/453.71cd4d42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b4a74cb.css",
+    "static/js/main.210022cb.js"
+  ]
+}
